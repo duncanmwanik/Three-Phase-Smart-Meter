@@ -8,3 +8,6 @@ Database: Firebase.
 App: Flutter. 
 Embedded: C++/Arduino on esp32.
 
+![App](https://raw.githubusercontent.com/duncanmwanik/Three-Phase-Smart-Meter/main/images/app.jpeg)
+![Box](https://raw.githubusercontent.com/duncanmwanik/Three-Phase-Smart-Meter/main/images/box.jpeg)
+![Enclosure](https://raw.githubusercontent.com/duncanmwanik/Three-Phase-Smart-Meter/main/images/box2.jpeg)
